@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2"
+	total="6" passed="4">
+	<reporter-output>
+	</reporter-output>
+	<suite name="Regression_Suite" duration-ms="14961"
+		started-at="2020-01-29T10:41:37 EET"
+		finished-at="2020-01-29T10:41:52 EET">
+		<groups>
+		</groups>
+		<test name="Happy_Scenarios" duration-ms="14961"
+			started-at="2020-01-29T10:41:37 EET"
+			finished-at="2020-01-29T10:41:52 EET">
+			<class name="tests.functionalTests">
+				<test-method status="PASS"
+					signature="createGistAndValidateDescriptionField()[pri:1, instance:tests.functionalTests@71bbf57e]"
+					name="createGistAndValidateDescriptionField" duration-ms="4243"
+					started-at="2020-01-29T10:41:37 EET"
+					finished-at="2020-01-29T10:41:42 EET">
+					<reporter-output>
+					</reporter-output>
+				</test-method> <!-- createGistAndValidateDescriptionField -->
+				<test-method status="PASS"
+					signature="createGistAndValidatePublicField()[pri:1, instance:tests.functionalTests@71bbf57e]"
+					name="createGistAndValidatePublicField" duration-ms="2088"
+					started-at="2020-01-29T10:41:42 EET"
+					finished-at="2020-01-29T10:41:44 EET">
+					<reporter-output>
+					</reporter-output>
+				</test-method> <!-- createGistAndValidatePublicField -->
+				<test-method status="PASS"
+					signature="createGistThenDeleteIt()[pri:1, instance:tests.functionalTests@71bbf57e]"
+					name="createGistThenDeleteIt" duration-ms="3763"
+					started-at="2020-01-29T10:41:44 EET"
+					finished-at="2020-01-29T10:41:48 EET">
+					<reporter-output>
+					</reporter-output>
+				</test-method> <!-- createGistThenDeleteIt -->
+				<test-method status="PASS"
+					signature="makeSurePublicGistsAppearInPublicSearch()[pri:1, instance:tests.functionalTests@71bbf57e]"
+					name="makeSurePublicGistsAppearInPublicSearch" duration-ms="4830"
+					started-at="2020-01-29T10:41:48 EET"
+					finished-at="2020-01-29T10:41:52 EET">
+					<reporter-output>
+					</reporter-output>
+				</test-method> <!-- makeSurePublicGistsAppearInPublicSearch -->
+			</class> <!-- tests.functionalTests -->
+		</test> <!-- Happy_Scenarios -->
+	</suite> <!-- Regression_Suite -->
+</testng-results>

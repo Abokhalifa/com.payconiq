@@ -1,0 +1,9 @@
+{
+  "description": "Payconiq Resassured01-27-2020",
+  "public": true,
+  "files": {
+    "Payconiq.txt": {
+      "content": "This is a confidential content for Payconiq on 01-25-2020."
+    }
+  }
+}
